@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Xheraa/Xhera-Osu-Bot/issues"
   },
-  "homepage": "https://github.com/Xheraa/Xhera-Osu-Bot#readme"
+  "homepage": "https://github.com/Xheraa/Xhera-Osu-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
 }
